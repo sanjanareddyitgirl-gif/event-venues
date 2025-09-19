@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Grand Hall",
+    "type": "Indoor",
+    "capacity": 300,
+    "price_sell": 500000,
+    "price_rent_per_day": 2500,
+    "location": "Downtown",
+    "description": "Large hall for weddings & conferences",
+    "status": "available",
+    "image": "/images/venue1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Sunset Garden",
+    "type": "Outdoor",
+    "capacity": 150,
+    "price_sell": 200000,
+    "price_rent_per_day": 1200,
+    "location": "Riverside",
+    "description": "Open garden perfect for ceremonies",
+    "status": "available",
+    "image": "/images/venue2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Rooftop Terrace",
+    "type": "Outdoor",
+    "capacity": 80,
+    "price_sell": 120000,
+    "price_rent_per_day": 900,
+    "location": "City Center",
+    "description": "Stylish rooftop with skyline views",
+    "status": "available",
+    "image": "/images/venue3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "The Glass Pavilion",
+    "type": "Indoor",
+    "capacity": 220,
+    "price_sell": 420000,
+    "price_rent_per_day": 2200,
+    "location": "Harbor",
+    "description": "Modern glass pavilion with sea view",
+    "status": "rented",
+    "image": "/images/venue4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Meadow Park",
+    "type": "Outdoor",
+    "capacity": 400,
+    "price_sell": 750000,
+    "price_rent_per_day": 3200,
+    "location": "Uptown",
+    "description": "Expansive parkland ideal for festivals",
+    "status": "available",
+    "image": "/images/venue5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Studio Loft",
+    "type": "Indoor",
+    "capacity": 60,
+    "price_sell": 90000,
+    "price_rent_per_day": 650,
+    "location": "Arts District",
+    "description": "Cozy loft space for private events",
+    "status": "available",
+    "image": "/images/venue6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Crystal Ballroom",
+    "type": "Indoor",
+    "capacity": 500,
+    "price_sell": 950000,
+    "price_rent_per_day": 5000,
+    "location": "Grand Avenue",
+    "description": "Opulent ballroom with chandelier",
+    "status": "available",
+    "image": "/images/venue7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Harbor Deck",
+    "type": "Outdoor",
+    "capacity": 120,
+    "price_sell": 150000,
+    "price_rent_per_day": 1100,
+    "location": "Harborfront",
+    "description": "Open deck overlooking the harbor",
+    "status": "available",
+    "image": "/images/venue8.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Maple Conference Center",
+    "type": "Indoor",
+    "capacity": 180,
+    "price_sell": 300000,
+    "price_rent_per_day": 1800,
+    "location": "Business Park",
+    "description": "Professional conference facilities",
+    "status": "available",
+    "image": "/images/venue9.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Orchid Conservatory",
+    "type": "Indoor",
+    "capacity": 90,
+    "price_sell": 175000,
+    "price_rent_per_day": 1000,
+    "location": "Botanic Gardens",
+    "description": "Indoor conservatory with plants & light",
+    "status": "available",
+    "image": "/images/venue10.jpg"
+  }
+]
