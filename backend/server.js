@@ -63,9 +63,11 @@ db.serialize(()=>{
     expectedMembers INTEGER,
     createdAt TEXT
   )`);
+
+  // Seed data after tables are created
+  seedVenues();
 });
 
-// Seed data (10 venues)
 // Seed data (10 venues)
 function seedVenues() {
   db.get("SELECT COUNT(*) as c FROM venues", (err, row) => {
@@ -92,8 +94,6 @@ function seedVenues() {
     console.log("Seeded 10 venues into DB.");
   });
 }
-
-seedVenues();
 
 // API endpoints
 app.get('/api/venues', (req, res) => {
