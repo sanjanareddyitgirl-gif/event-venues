@@ -27,7 +27,7 @@ cd backend
 npm install
 npm start
 ```
-This starts the backend on `http://localhost:3000`. It creates `backend/data/venues.db` with seeded venues and serves images at `http://localhost:3000/images/...` and ads at `http://localhost:3000/ads/...`
+This starts the backend on `http://localhost:3001`. It creates `backend/data/venues.db` with seeded venues and serves images at `http://localhost:3001/images/...` and ads at `http://localhost:3001/ads/...`
 
 ### 2) Frontend
 Open a second terminal and run:
